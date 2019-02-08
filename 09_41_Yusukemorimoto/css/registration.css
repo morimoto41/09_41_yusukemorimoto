@@ -1,0 +1,21 @@
+#nametop h4{
+    color: aliceblue;
+    padding-left: 3%;
+    font-weight: 700;
+}
+
+#nametop h5{
+    color: aliceblue;
+    padding-left: 3%;
+    font-weight: 600;
+
+}
+
+#registration {
+    color: aliceblue;
+    padding-left: 3%;
+}
+
+#return {
+    padding-left: 3%;
+}

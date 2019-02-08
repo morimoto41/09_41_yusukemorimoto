@@ -1,0 +1,27 @@
+#toptitle h1{
+    color: aliceblue;
+    padding-left: 3%;
+    font-weight: 500; 
+}
+
+#toptitle h3{
+    color: aliceblue;
+    padding-left: 3%;
+    font-weight: 600;
+    padding-bottom: 2%;
+}
+
+#usertitlelist a{
+    color: aliceblue;
+    padding-left: 5%;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+#return a{
+    color: aliceblue;
+    padding-left: 5%;
+    font-weight: 600;
+    font-size: 18px;
+
+}

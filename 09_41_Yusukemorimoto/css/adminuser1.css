@@ -1,0 +1,28 @@
+#toptitle1 h1{
+    color: aliceblue;
+    padding-left: 3%;
+    font-weight: 500; 
+}
+
+#toptitle1 h3{
+    color: aliceblue;
+    padding-left: 3%;
+    font-weight: 600;
+    padding-bottom: 2%;
+}
+
+#admintitlelist a{
+    color: aliceblue;
+    padding-left: 5%;
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 2%;
+}
+
+#return a{
+    color: aliceblue;
+    padding-left: 5%;
+    font-weight: 600;
+    font-size: 18px;
+
+}

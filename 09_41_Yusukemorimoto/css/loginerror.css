@@ -1,0 +1,19 @@
+#errortitle h1{
+    color: aliceblue;
+    font-weight: 700;
+    padding-top: 5%;
+    padding-left: 3%;
+}
+
+#errormg p {
+    color: aliceblue;
+    padding-top: 3%;
+    font-size: 20px;
+    padding-left: 3%;
+}
+
+#return a{
+    color: aliceblue;
+    padding-left: 3%;
+    font-size: 20px;
+}

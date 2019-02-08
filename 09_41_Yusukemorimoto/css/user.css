@@ -1,0 +1,30 @@
+#toptitle a{
+    color: aliceblue;
+    padding-left: 4%;
+    position: relative;
+    line-height: 250%;  
+    font-size: 20px;
+}
+
+#toptitle h1{
+    color: aliceblue;
+    padding-left: 4%;
+}
+
+#toptitle h3{
+    color: aliceblue;
+    padding-left: 3.5%;
+    font-size: 25px;
+}
+
+#toptitle p{
+    color: aliceblue;
+    line-height: 250%;
+    /* padding-left: 5%; */       
+}
+
+#toptitle h6{
+    padding-left: 5%;
+    color: aliceblue;
+}
+
